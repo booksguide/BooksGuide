@@ -68,3 +68,6 @@ TEAM MEMBERS :
 3) Mandar Ghule.
 
 ![photo](https://github.com/booksguide/booksguide/assets/150717133/7535a88c-3049-4bdf-bd6d-cf104c64df3b)
+
+
+![Homepage](https://github.com/booksguide/booksguide/assets/150717133/66adcad7-3e4c-48f4-8b2d-89f3f664d911)
