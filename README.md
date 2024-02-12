@@ -78,3 +78,5 @@ TEAM MEMBERS :
 LinkdIn : https://www.linkedin.com/company/booksguideofficial
 
 WhatsApp Community : https://chat.whatsapp.com/BFtySKt3PvgKLlvH8JZYJX
+
+Email : booksguide23@gmail.com
