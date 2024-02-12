@@ -75,5 +75,4 @@ TEAM MEMBERS :
 ![booksguide LinkedIn Banner](https://github.com/booksguide/booksguide/assets/150717133/711d42f9-6875-45ec-8d5e-27a5afe555da)
 
 
-
-![LinkedinGIF](https://github.com/booksguide/booksguide/assets/150717133/a827f1da-4fea-4453-8afb-d57ff49ab5b8)[https://www.linkedin.com/company/booksguideofficial]
+LinkdIn : https://www.linkedin.com/company/booksguideofficial
